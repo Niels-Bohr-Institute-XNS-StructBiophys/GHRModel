@@ -7,5 +7,5 @@ Include here are:
 - Scripts used in the analysis of simulation data and SAXS Fits.
 - Fits between the SAXS data and theoretical scattering from structures of GHR-ECD, GHR-ICD and GHRfl-GFP obtained from modeling and simulations as reported in the manuscript. 
 
-- Simulation trajectories are avaliable at:10.5281/zenodo.4737501
-- Models of GHR-ECD and GHR-ECD+TMD, backmapped structures from CG simulations (GHR-ICD and GHRfl-GFP) and WillItFit SAXS Fits for hGHRfl-GFP avaliable at:10.5281/zenodo.4740700
+- Simulation trajectories are avaliable at:https://doi.org/10.5281/zenodo.4737501
+- Models of GHR-ECD and GHR-ECD+TMD, backmapped structures from CG simulations (GHR-ICD and GHRfl-GFP) and WillItFit SAXS Fits for hGHRfl-GFP avaliable at:https://doi.org/10.5281/zenodo.4740700
